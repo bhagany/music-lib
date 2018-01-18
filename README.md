@@ -1,4 +1,4 @@
-# Music library - Etsy assignment
+# Music library
 
 This was a lot of fun! It was a great excuse to try out a few things I've been looking for
 opportunities to try out. While I tried to avoid it, I chose to use Clojure - the problem just
